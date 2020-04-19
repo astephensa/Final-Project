@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f377b41ea5ac67340956d71c90b9db4d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shot: {instanceID: 0}
+  - shotSpawn: {instanceID: 0}
+  - musicSource: {instanceID: 0}
+  - musicClipOne: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
